@@ -1,0 +1,32 @@
+[
+    {
+        "company": "Samsung Electronics",
+        "latitude": 37.5596427,
+        "longitude": 126.943232,
+        "phonenumber": "0 0 24 24"
+    },
+    {
+        "company": "Google",
+        "latitude": 37.5596427,
+        "longitude": 126.943232,
+        "phonenumber": "0 0 24 24"
+    },
+    {
+        "company": "Microsoft",
+        "latitude": 37.5596427,
+        "longitude": 126.943232,
+        "phonenumber": "0 0 24 24"
+    },
+    {
+        "company": "Amazon",
+        "latitude": 37.5596427,
+        "longitude": 126.943232,
+        "phonenumber": "0 0 24 24"
+    },
+    {
+        "company": "Tesla",
+        "latitude": 37.5596427,
+        "longitude": 126.943232,
+        "phonenumber": "0 0 24 24"
+    }
+]
