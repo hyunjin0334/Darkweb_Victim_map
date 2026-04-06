@@ -15,3 +15,9 @@ Thumbs.db
 
 # VSCode
 .vscode/
+
+#python 
+python
+
+#Database
+db.sqlite3
